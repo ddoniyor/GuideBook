@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GuideBook</string>
+    <string name="main_screen">MainScreen</string>
+    <string name="detail_screen">DetailScreen</string>
+    <string name="back_button">back_button</string>
+</resources>
